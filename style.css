@@ -101,3 +101,24 @@ span {
     margin-left: 150px;
     border-radius: 5%;
 }
+
+#first-cover {
+    border: 7px red solid;
+}
+
+#second-cover {
+    border: 7px solid orange;
+}
+
+.last-one {
+    display: flex;
+    box-shadow: 10px 10px 40px gray;
+    padding: 10px 20px;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    border-radius: 5%;
+}
+
+.last-one div {
+    padding-left: 200px;
+}
