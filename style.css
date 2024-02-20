@@ -40,6 +40,7 @@ span {
 .second-section {
     display: flex;
     background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
 }
 
 .second-section img {
@@ -68,4 +69,35 @@ span {
 .recipie {
     text-align: center;
     padding: 10%;
+}
+
+.cover {
+    width: 40%;
+    padding: 10px;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 20px;
+    margin-left: 20px;
+    border-radius: 5%;
+}
+
+.cover img {
+    width: 80%;
+}
+
+.two-pic {
+    display: flex;
+
+}
+
+.cover2 img {
+    width: 80%;
+}
+
+.cover2 {
+    width: 40%;
+    padding: 10px;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 20px;
+    margin-left: 150px;
+    border-radius: 5%;
 }
