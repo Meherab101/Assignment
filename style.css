@@ -64,3 +64,8 @@ span {
 .about-me p {
     margin-bottom: 60px;
 }
+
+.recipie {
+    text-align: center;
+    padding: 10%;
+}
