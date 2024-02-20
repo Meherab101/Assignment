@@ -11,6 +11,7 @@ body {
 
 .first-sec {
     display: flex;
+    margin-bottom: 60px;
 }
 
 span {
@@ -34,4 +35,32 @@ span {
 .diet p {
     margin-bottom: 40px;
 
+}
+
+.second-section {
+    display: flex;
+    background-image: url(images/shapes/7.png);
+}
+
+.second-section img {
+    width: 250px;
+    padding-left: 150px;
+    padding-top: 20px;
+}
+
+.about-me {
+    width: 40%;
+    padding-left: 250px;
+    padding-top: 20px;
+}
+
+.second-section a {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+
+.about-me p {
+    margin-bottom: 60px;
 }
